@@ -5,7 +5,7 @@ public class StudentDetails {
 	private String studentRollNumber;
 	private String studentName;
 	
-//  Here we are providing public getter and setter method for private variable studentRollNumber and studentName
+//  Here we are providing public getter and setter method for private variable
 	
 	public String getRollNumber() {
 		return studentRollNumber;
